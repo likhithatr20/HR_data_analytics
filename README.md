@@ -9,30 +9,46 @@ The goal of this project is to analyze employee attrition (employees leaving the
 
 **KPIs**
 Total Employees: 1470
+
 Attrition Count: 237
+
 Attrition Rate: 16.1%
+
 Average Age: 37 years
+
 Average Salary: 6.5K
+
 Average Years in Company: 7 years
 
 **Charts & Analysis**
 Attrition by Education → Most attrition seen in Life Sciences and Medical.
+
 Attrition by Age → Employees aged 26–35 have the highest attrition.
+
 Attrition by Gender → More males left compared to females.
+
 Attrition by Salary → Employees with salary up to 5k form the majority of attrition cases.
+
 Attrition by Years at Company → Most attrition happens within the first year.
+
 Attrition by Job Role → Highest attrition in Laboratory Technicians, Sales Executives, and Research Scientists.
 
 **Tools & Technologies Used**
 1.Power BI – For building the dashboard and visualizations.
+
 2.Excel / CSV Dataset – For employee HR data.
+
 3.Data Cleaning & Transformation – Using Power Query in Power BI.
 
 **Steps Performed**
 1.Imported the dataset into Power BI.
+
 2.Cleaned and transformed the data (removed nulls, formatted columns).
+
 3.Created calculated measures for KPIs like attrition rate, average salary, average age, etc.
+
 4.Built charts for different categories (age, education, salary, job role, etc.).
+
 5.Designed and published the HR Analytics Dashboard.
 
 **Dashboard Preview**
