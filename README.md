@@ -8,19 +8,21 @@ The goal of this project is to analyze employee attrition (employees leaving the
 **The dashboard provides:**
 
 **KPIs**
-Total Employees: 1470
 
-Attrition Count: 237
+1) Total Employees: 1470
 
-Attrition Rate: 16.1%
+2) Attrition Count: 237
 
-Average Age: 37 years
+3) Attrition Rate: 16.1%
 
-Average Salary: 6.5K
+4) Average Age: 37 years
 
-Average Years in Company: 7 years
+5) Average Salary: 6.5K
+
+6) Average Years in Company: 7 years
 
 **Charts & Analysis**
+
 Attrition by Education → Most attrition seen in Life Sciences and Medical.
 
 Attrition by Age → Employees aged 26–35 have the highest attrition.
@@ -34,22 +36,24 @@ Attrition by Years at Company → Most attrition happens within the first year.
 Attrition by Job Role → Highest attrition in Laboratory Technicians, Sales Executives, and Research Scientists.
 
 **Tools & Technologies Used**
-1.Power BI – For building the dashboard and visualizations.
 
-2.Excel / CSV Dataset – For employee HR data.
+1. Power BI – For building the dashboard and visualizations.
 
-3.Data Cleaning & Transformation – Using Power Query in Power BI.
+2. Excel / CSV Dataset – For employee HR data.
+
+3. Data Cleaning & Transformation – Using Power Query in Power BI.
 
 **Steps Performed**
-1.Imported the dataset into Power BI.
 
-2.Cleaned and transformed the data (removed nulls, formatted columns).
+1. Imported the dataset into Power BI.
 
-3.Created calculated measures for KPIs like attrition rate, average salary, average age, etc.
+2. Cleaned and transformed the data (removed nulls, formatted columns).
 
-4.Built charts for different categories (age, education, salary, job role, etc.).
+3. Created calculated measures for KPIs like attrition rate, average salary, average age, etc.
 
-5.Designed and published the HR Analytics Dashboard.
+4. Built charts for different categories (age, education, salary, job role, etc.).
+
+5. Designed and published the HR Analytics Dashboard.
 
 **Dashboard Preview**
 
